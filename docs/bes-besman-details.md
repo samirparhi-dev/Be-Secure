@@ -7,7 +7,8 @@ hide:
 
 ## What is BeSman?
 
-BeSman is a command-line utility to provision customized environments for each open source projects.
+BeSman is a command-line utility to create customized environments for any project in a plug-in play manner. This tool is helpful to automate the full lifecycle of creating the Environment , installing the tool , running security scan for a given project, generating the scan reports and publishing it to BeSLighthouse.
+> For example: you are a security analyst and curious about knowing the security feature of an open source tool let say 
 
 ## Environments
 
